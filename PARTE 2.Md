@@ -15,3 +15,4 @@ Estas bases de datos son valiosas para nuestro tema de investigación porque a t
 
 ## Metodología: ¿Cómo y dónde se levantaron los datos? ¿Con qué instrumentos? Si deben construir el archivo de base de dato, indiquen cómo lo realizarán (por ejemplo web scraping o inscripción manual).
 En el informe de la Cadem, la encuesta fue  autoadministrada aplicada a través de entrevistas web al panel Cadem Online a un universo de Chilenos, hombres y mujeres, de 13 años o más, de todos los niveles socioeconómicos y todas las regiones del país. Se recogió una muestra representativa de 4 generaciones (Z, Millennials, X, y Baby Boomers) y se realizaron 2.563 entrevistas.
+En el informe del INE, se recogen a nivel nacional datos a través de encuestas, registros y censos, del 2023 a la actualidad a nivel comparativo.  
