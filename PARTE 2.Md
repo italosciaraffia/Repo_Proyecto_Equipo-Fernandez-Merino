@@ -2,7 +2,6 @@
 
 ## Autor y publicación de los datos: 
 Cadem e Instituto Nacional de Estadísticas (INE). 
-(Cadem)[https://cadem.cl/wp-content/uploads/2022/05/Informe-Chile-que-Viene-Mar-2022-Mascotas.pdf]
 (INE)[https://www.ine.gob.cl/docs/default-source/nacimientos-matrimonios-y-defunciones/publicaciones-y-anuarios/anuarios-de-estad%C3%ADsticas-vitales/estad%C3%ADsticas-vitales-cifras-provisionales-2023-(versi%C3%B3n-marzo-2025).pdf?sfvrsn=c8e963f3_4]
 
 ## ¿Qué datos contiene la base? ¿Qué tipo de datos son? ¿Qué variables? ¿En qué periodo se levantaron?
