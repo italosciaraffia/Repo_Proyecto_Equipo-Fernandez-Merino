@@ -1,4 +1,4 @@
-# Parte 2 de la Entrega 1
+# Base de datos
 
 ## Autor y publicación de los datos: 
 Cadem e Instituto Nacional de Estadísticas (INE). 
