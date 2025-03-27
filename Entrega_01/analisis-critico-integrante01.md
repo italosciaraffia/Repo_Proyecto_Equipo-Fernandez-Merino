@@ -1,0 +1,8 @@
+# Análisis crítico Gabriela Fernandez
+
+Para mí es relevante analizar este tema, debido a que hoy en día estamos viviendo una crisis de la natalidad que impacta al país y al nuestro futuro. Así mismo, las mascotas son una parte muy importante en la vida de las personas, no excluyendo la mía. 
+A pesar de mi preocupación por la natalidad, al igual como a tantas otras personas me ha surgido la duda si es una buena elección tener hijos, considerando múltiples factores que afectan a esta decisión. Así, las mascotas en mi vida siempre las he visto como seres parte de la familia, que conllevan un gasto menor que una guagua y, que a la vez, son un elemento de amor, que requieren tiempo y dedicación. 
+Así se abre una disyuntiva que se evidencia como un fenómeno a nivel mundial, incluso, de que si las mascotas reemplazan a los hijos, considerando los elementos que condicionan cada vez más la decisión de tenerlos. 
+Por esto, espero poder llegar a contar cómo diferentes factores han traído cambios dentro de nuestra sociedad, que conllevan reestructuraciones a nivel social. Espero poder evidenciar el impacto de estas decisiones y los pros y contras de cada una. 
+Por esto, quiero poder llegar a mostrar en nuestro trabajo la vivencia de familias y/o personas que se encuentren en cada uno de los casos, como también que tengan diferentes visiones que lleven a su decisión. 
+Me gustaría aprender en este proyecto a poder narrar y construir un reportaje, a través de bases de datos y de manera didáctica, incluyendo elementos interactivos en plataformas de programación que permiten actualizar los datos y simplificar ciertos recursos. 
