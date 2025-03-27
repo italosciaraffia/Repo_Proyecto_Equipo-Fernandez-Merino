@@ -1,0 +1,11 @@
+# Análisis crítico Ítalo Merino
+
+Personalmente, hace mucho tiempo he estado viendo como personas cercanas a mí tratan a sus mascotas como si fueran sus hijos, que les hacen cumpleaños, se preocupan de sacarlos a pasear todos los días, que les pagan un babysitter para cuando salen de viaje o en el peor de los casos dejan de salir de viaje porque no hay nadie quien los pueda cuidar. He visto también cómo aparecen y aparecen tiendas relacionadas con el cuidado de las mascotas, de la mano con eso hay cada vez más leyes que velan por el buen cuidado de las mascotas y que penalizan a las personas que las abandonan. Con todo esto he reflexionado y me he dado cuenta que la sociedad va aceptando a las mascotas cada vez más como un miembro de la familia que merece igual respeto y cuidado, lo que puede ser positivo o negativo según quien lo vea, pero que de todas formas es un cambio importante en nuestra forma de vivir como seres humanos y de relacionarnos con los animales. 
+
+Yo espero, primero que todo, revelar eso con nuestro reportaje, que la relación con los animales ha llegado a unos niveles de igualdad que no habíamos visto nunca antes y que eso está cambiando la forma en la que vivimos. 
+
+Otra cosa que me gustaría revelar, al hacer el cruce entre los datos con respecto a la natalidad y las adopciones animales es que el ser humano, en su mayoría, siempre hay excepciones, tiene en cierta forma una necesidad de ayudar a generar una vida, una necesidad a hacer que algo crezca, a querer a otro proyecto de ser vital y que finalmente con todas las complejidades que tiene una vida, las personas optan por adoptar mascotas para llenar ese vacío, por ello me gustaría revelar si la adopción de mascotas sucede más en las familias con hijos o sin hijos.
+
+Por otro lado, me gustaría revelar cómo ciertos factores socioeconómicos afectan en la  elección de preferir a los hijos versus las mascotas y tal vez con nuestro trabajo que algún día se puedan generar políticas públicas que aporten a la crianza en ciertos estratos sociales. 
+
+Me gustaría aprender más de cómo se forman las familias en nuestro país, pero sobre todo, me encantaría poder a través de este trabajo adquirir herramientas que me permitan narrar fenómenos sociales. que se demuestran a través de datos, de forma atractiva con tal de poder generar un mayor llamado a la audiencia a leerlos.
