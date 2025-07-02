@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>La Historia de Camita: Letalidad y camas hospitalarias</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>🛏️ La Historia de Camita</h1>
+        <p class="bajada">¿Cómo la ocupación de camas hospitalarias afecta la letalidad? Un viaje desde los datos y la humanidad.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#introduccion">Introducción</a></li>
+            <li><a href="#visualizaciones">Visualizaciones</a></li>
+            <li><a href="#conclusiones">Conclusiones</a></li>
+        </ul>
+    </nav>
+
+    <section id="introduccion">
+        <h2>Camita habla...</h2>
+        <p>Hola, soy Camita. Estoy presente en cada hospital público de Chile. Pero no siempre me ocupan cuando más me necesitan. En este reportaje te mostraré lo que he visto: cómo la falta de ocupación se relaciona con muertes evitables.</p>
+        <img src="https://i.imgur.com/9OH9S2B.png" alt="Camita ilustrada" style="max-width: 100%; margin-top: 10px;">
+    </section>
+
+    <section id="visualizaciones">
+        <h2>Visualización: Ocupación vs Letalidad</h2>
+        <div id="grafico" style="height: 500px;"></div>
+        <p>Este gráfico muestra la relación entre la ocupación promedio de camas hospitalarias y las tasas de letalidad por región. ¿Qué podemos ver? En las regiones con menor ocupación, la letalidad es mayor. Camita no siempre estuvo donde debía estar.</p>
+    </section>
+
+    <section id="conclusiones">
+        <h2>Conclusiones</h2>
+        <p>Los datos no solo cuentan números. También cuentan historias de desigualdad y urgencia. Camita estuvo vacía donde más la necesitaban. ¿Qué decisiones estructurales explican estas desigualdades?</p>
+    </section>
+
+    <!-- SNIPPET: Muestra la URL donde se está visualizando -->
+    <section style="text-align:center; margin:2em 0;">
+      🔗 <strong>Esta página está en:</strong>
+      <a id="current-url" href="#" target="_blank">Cargando…</a>
+    </section>
+
+    <footer>
+        <p>Realizado por estudiantes de Periodismo UC · Narración Gráfica COM-208</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+    <script src="script.js"></script>
+    <script>
+      // Rellena el enlace con la URL actual
+      const a = document.getElementById('current-url');
+      a.href = window.location.href;
+      a.textContent = window.location.href;
+    </script>
+</body>
+</html>
+body {
+    font-family: 'Inria Serif', serif;
+    background-color: #f6fafd;
+    color: #2d2d2d;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #006D77;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header .bajada {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+nav {
+    background-color: #83C5BE;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 15px;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+section {
+    padding: 40px;
+    max-width: 900px;
+    margin: auto;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #EDF6F9;
+    font-size: 0.9em;
+}
+var chartDom = document.getElementById('grafico');
+var myChart = echarts.init(chartDom);
+
+var option = {
+    title: {
+        text: 'Ocupación de Camas vs Letalidad',
+        left: 'center'
+    },
+    tooltip: {
+        trigger: 'item'
+    },
+    xAxis: {
+        name: 'Índice Ocupacional (%)',
+        type: 'value'
+    },
+    yAxis: {
+        name: 'Letalidad (%)',
+        type: 'value'
+    },
+    series: [{
+        symbolSize: 15,
+        data: [
+            [74.73, 33.33],
+            [61.31, 14.29],
+            [62.90, 33.33],
+            [70.00, 20.83],
+            [75.81, 23.33]
+        ],
+        type: 'scatter'
+    }]
+};
+
+<section id="datos" style="padding: 20px; text-align: center;">
+  <h3>📊 Descarga tus datos</h3>
+  <ul style="list-style: none; padding: 0;">
+    <li><a href="base_datos/01_conteo_simple.xlsx" download>01_conteo_simple.xlsx</a></li>
+    <li><a href="base_datos/02_conteo-dias_cama.xlsx" download>02_conteo-dias_cama.xlsx</a></li>
+    <li><a href="base_datos/Base_Camas_limpia.xlsx" download>Base_Camas_limpia.xlsx</a></li>
+  </ul>
+</section>
+
+http://127.0.0.1:5500/docs/index.html
