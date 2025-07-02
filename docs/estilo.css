@@ -1,0 +1,54 @@
+body {
+    font-family: 'Inria Serif', serif;
+    background-color: #f6fafd;
+    color: #2d2d2d;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #006D77;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header .bajada {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+nav {
+    background-color: #83C5BE;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 15px;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+section {
+    padding: 40px;
+    max-width: 900px;
+    margin: auto;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #EDF6F9;
+    font-size: 0.9em;
+}
