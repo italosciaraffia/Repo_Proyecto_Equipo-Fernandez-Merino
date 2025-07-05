@@ -31,6 +31,55 @@ Este fenómeno tiene un nombre: infrautilización. Y no es menor.</p>
     <section id="visualizaciones">
         <h2>Ocupación nacional de camas públicas en Chile</h2>
         <div id="grafico 1" style="height: 500px;"></div>
+        !pip install plotly
+
+import plotly.graph_objects as go
+
+# Datos
+años = list(range(2014, 2025))
+indices = [64, 65, 64, 64, 66, 66, 55, 59, 64, 67, 67]
+
+# Crear figura
+fig = go.Figure()
+
+fig.add_trace(go.Scatter(
+x=años,
+y=indices,
+mode='lines+markers',
+name='Índice Ocupacional',
+line=dict(color='#4682B4'),
+hovertemplate='Año: %{x}<br>Ocupación: %{y}%<extra></extra>'
+))
+
+# Línea de eficiencia (70%)
+fig.add_shape(
+type="line",
+x0=min(años), x1=max(años),
+y0=70, y1=70,
+line=dict(color="green", width=2, dash="dash"),
+)
+
+# Etiqueta de eficiencia
+fig.add_annotation(
+x=max(años), y=70,
+text='Mínimo de eficiencia (70%)',
+showarrow=False,
+font=dict(color="green", size=12),
+xanchor='left'
+)
+
+# Diseño
+fig.update_layout(
+title='Evolución del Índice Ocupacional de Camas en Chile',
+xaxis_title='Año',
+yaxis_title='Índice de Ocupación (%)',
+yaxis=dict(range=[50, 75]),
+hovermode='x unified',
+template='simple_white',
+height=600
+)
+
+fig.show()
 
         <p>Pero este es solo un panorama general. No todas las camas vivimos lo mismo, y por eso hay que mirar con más detalle. Si ponemos la lupa, vemos que la situación varía mucho según la región y el tipo de atención.</p>
          <h2>Ocupación por regiones en escala de colores</h2>
