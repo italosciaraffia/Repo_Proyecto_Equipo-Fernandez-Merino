@@ -31,14 +31,23 @@ h1 {
     font-size: 2.5em;
 }
 
-h2, h3 {
+h2 {
     text-align: center;
     margin-bottom: 20px;
     color: #00575f;
 }
 
+h3 {
+    text-align: left;
+    margin-bottom: 20px;
+    color: #066871;
+}
+
 h2 {
     font-size: 1.8em;
+}
+h3 {
+    font-size: 1em;
 }
 
 /* Navegación */
