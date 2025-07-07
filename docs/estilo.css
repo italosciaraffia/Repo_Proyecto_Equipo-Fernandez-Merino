@@ -8,6 +8,18 @@ body {
     line-height: 1.6;
 }
 
+header {
+    background-color: #006D77;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header .bajada {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
 /* Títulos */
 h1, h2, h3 {
     text-align: center;
