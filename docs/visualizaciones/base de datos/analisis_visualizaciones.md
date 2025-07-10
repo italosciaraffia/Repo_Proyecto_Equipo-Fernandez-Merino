@@ -1,4 +1,4 @@
-Análisis de sus visualizaciones en relación con la historia que están contando: ¿Qué dimensiones y mensajes quieren comunicar con ellas?
+# Análisis de sus visualizaciones en relación con la historia que están contando: ¿Qué dimensiones y mensajes quieren comunicar con ellas?
 Gráfico “Evolución del Índice Ocupacional de Camas e Chile”: Con este gráfico queríamos presentar una visión general de la ocupación hospitalaria en la última década, contextualizando el problema y revela la ocupación de manera generalizada de camas, planteando la hipótesis que después desglosamos y que da el enfoque de nuestro reportaje.
 Gráfico índice de Ocupación por Región (2014-2024): Con este gráfico quisimos comparar el comportamiento de la ocupación hospitalaria entre las regiones de nuestro país. Demuestra que la ocupación no es homogénea entre las regiones y que hay diferencias grandes.
 Gráfico “Ocupación camas UCI”: hicimos este gráfico para evidenciar cómo evoluciona la ocupación en los meses y cumple el máximo o mínimo de eficiencia. Además deja en evidencia la demanda de camas críticas durante la pandemia.
